@@ -1,0 +1,29 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.kutucuklar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.yesilKutucuk{
+    background-color: yellowgreen;
+    height: 300px;
+    width: 300px;
+}
+
+.bejKutucuk{
+    background-color: bisque; 
+    height: 300px; 
+    width: 300px;
+}
+
+h1{
+    font-size: 32px;
+    text-align: center;
+    color: #007aff;
+}
