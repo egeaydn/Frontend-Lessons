@@ -3,7 +3,7 @@ let sayi = 5.564;
 
 console.log(sayi.toFixed(2));
 
-console.log(sayi.toPrecision(2));
+console.log(sayi.toPrecision(7));
 
 console.log(sayi.toString()); // 5.564 -> "5.564"
 

@@ -4,7 +4,7 @@ Bu sayının asal olup olmadığını kontrol eden bir program yazınız.Örnek:
 (çünkü sadece 1 ve 17’ye bölünür)İpucu: 2’den n-1’e kadar bölen arayın
 */
 
-let sayi = 17;
+let sayi = 17 ;
 let asalMi = 1;
 
 while (asalMi < 50) {
