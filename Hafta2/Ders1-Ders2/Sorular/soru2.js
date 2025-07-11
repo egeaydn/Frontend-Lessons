@@ -17,3 +17,6 @@ while (asalMi < 50) {
     }
     asalMi++;
 }
+
+
+
